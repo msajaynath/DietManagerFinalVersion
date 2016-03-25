@@ -118,4 +118,21 @@
         android:id="@+id/update"
         android:layout_below="@+id/dis4"
         android:layout_centerHorizontal="true" />
+
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/changepass"
+        android:src="@drawable/change_pass"
+        android:layout_above="@+id/textView14"
+        android:layout_toEndOf="@+id/dis4" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Change Password"
+        android:id="@+id/textView14"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true" />
 </RelativeLayout>
