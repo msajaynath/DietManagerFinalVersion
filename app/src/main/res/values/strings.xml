@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DietManager</string>
+    <string name="dis1">Scurvy</string>
+    <string name="dis2">Diabetes</string>
+    <string name="dis3">Disease3</string>
+    <string name="dis4">Disease4</string>
+</resources>
